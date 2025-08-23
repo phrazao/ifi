@@ -1,4 +1,95 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'blowfish'
+baseURL = "https://phrazao.github.io/ifi/"
+title = "impossibilis"
+theme = "blowfish"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+contentDir = "content"  # Define a pasta base para conteúdo
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    contentDir = "content/en"  # Conteúdo em inglês
+    [languages.en.params]
+      logo = "img/logo.svg"
+      disableTextInHeader = true
+      description = "Tabletop and card games producer and publisher."
+      keywords = ["tabletop games", "board games", "card games", "impossibilis"]
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        name = "About"
+        url = "/en/about/"
+        weight = 10
+      [[languages.en.menu.main]]
+        name = "Games"
+        url = "/en/games/"
+        weight = 20
+      [[languages.en.menu.main]]
+        name = "News"
+        url = "/en/news/"
+        weight = 30
+      [[languages.en.menu.main]]
+        name = "Contact Us"
+        url = "/en/contact/"
+        weight = 40
+
+  [languages.pt]
+    languageName = "Português"
+    weight = 2
+    contentDir = "content/pt"  # Conteúdo em português
+    [languages.pt.params]
+      logo = "img/logo.svg"
+      disableTextInHeader = true
+      description = "Produtora e editora de jogos de tabuleiro e cartas."
+      keywords = ["jogos de tabuleiro", "jogos de cartas", "impossibilis"]
+    [languages.pt.menu]
+      [[languages.pt.menu.main]]
+        name = "Acerca"
+        url = "/pt/about/"
+        weight = 1
+      [[languages.pt.menu.main]]
+        name = "Jogos"
+        url = "/pt/games/"
+        weight = 2
+      [[languages.pt.menu.main]]
+        name = "Novidades"
+        url = "/pt/news/"
+        weight = 3
+      [[languages.pt.menu.main]]
+        name = "Contacte-nos"
+        url = "/pt/contact/"
+        weight = 4
+
+[params]
+  description = "impossibilis - Tabletop Games Producer and Publisher"
+  enableThemeToggle = true
+  defaultTheme = "auto"
+  autoSwitchAppearance = true
+  showSearch = true
+  favicon = "/favicon.ico"
+  logo = "img/logo.svg"
+  disableTextInHeader = true
+  showLanguageSwitcher = true
+
+  [params.footer]
+    showCopyright = true
+    showPowerBy = true
+    showScrollToTop = true
+    content = """
+    © {{ now.Year }} impossibilis. Todos os direitos reservados.
+
+    impossibilis, Lda
+    Rua 16 de Março, 7 R/c Dir.
+    2600-136 Vila Franca de XIRA
+    Portugal
+
+    NIF: 515548740
+
+    Telefone Geral
+    +351 961 819 241 (Chamada para a rede móvel nacional)
+
+    [Informação Legal](/en/legal/) | [Termos e Condições](/en/terms/) | [Política de Privacidade](/en/privacy/) | [Política de Cookies](/en/cookies/)
+    """
+
+
