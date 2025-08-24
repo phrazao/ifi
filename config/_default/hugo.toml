@@ -15,7 +15,6 @@ disableLanguages = ["pt-PT", "pt-BR"]
     weight = 1
     disabled = false
     languageCode = "en"
-    #title = "impossibilis"
     contentDir = "content/en"  # Conteúdo em inglês
     [languages.en.params]
       logo = "img/logo.svg"
@@ -25,7 +24,6 @@ disableLanguages = ["pt-PT", "pt-BR"]
       displayName = "EN"
       isoCode = "en"
       rtl = false
-      dateFormat = "2 January 2006"
     [languages.en.menu]
       [[languages.en.menu.main]]
         name = "About"
@@ -40,7 +38,7 @@ disableLanguages = ["pt-PT", "pt-BR"]
         url = "/en/news/"
         weight = 30
       [[languages.en.menu.main]]
-        name = "Contact Us"
+        name = "Contact"
         url = "/en/contact/"
         weight = 40
 
@@ -49,7 +47,6 @@ disableLanguages = ["pt-PT", "pt-BR"]
     languageCode = "pt"
     languageName = "Português"
     weight = 2
-    #title = "Português"
     contentDir = "content/pt"  # Conteúdo em português
     [languages.pt.params]
       logo = "img/logo.svg"
@@ -60,28 +57,24 @@ disableLanguages = ["pt-PT", "pt-BR"]
       isoCode = "pt"
       rtl = false
       dateFormat = "2 January 2006"
-      # logo = "img/logo.png"
-      # secondaryLogo = "img/secondary-logo.png"
-      # description = "My awesome website"
-      # copyright = "Copy, _right?_ :thinking_face:"
     [languages.pt.menu]
       [[languages.pt.menu.main]]
         name = "Acerca"
         url = "/pt/about/"
-        weight = 1
+        weight = 10
       [[languages.pt.menu.main]]
         name = "Jogos"
         url = "/pt/games/"
-        weight = 2
+        weight = 20
       [[languages.pt.menu.main]]
         name = "Novidades"
         url = "/pt/news/"
-        weight = 3
+        weight = 30
       [[languages.pt.menu.main]]
-        name = "Contacte-nos"
+        name = "Contacto"
         url = "/pt/contact/"
-        weight = 4
-
+        weight = 40
+ 
 [params]
   description = "impossibilis - Tabletop Games Producer and Publisher"
   enableThemeToggle = true
