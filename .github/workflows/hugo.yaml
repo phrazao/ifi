@@ -29,6 +29,11 @@ jobs:
         with:
           hugo-version: '0.147.7'  # Ajusta se usares outra versão
 
+      - name: Clean conflicting theme translations
+        run: |
+          rm -f themes/blowfish/i18n/pt-PT.yaml
+          rm -f themes/blowfish/i18n/pt-BR.yaml
+
       - name: Build with Hugo
         run: hugo --minify
 
