@@ -75,7 +75,7 @@ disableLanguages = ["pt-PT", "pt-BR"]
         url = "/pt/contact/"
         weight = 40
  
-[params]
+ [params]
   description = "impossibilis - Tabletop Games Producer and Publisher"
   enableThemeToggle = true
   defaultTheme = "auto"
@@ -85,6 +85,7 @@ disableLanguages = ["pt-PT", "pt-BR"]
   logo = "img/logo.svg"
   disableTextInHeader = true
   showLanguageSwitcher = true
+  customCSS = ["css/custom.css"]  # Adiciona o CSS personalizado
 
   [params.footer]
     showCopyright = true
@@ -105,5 +106,3 @@ disableLanguages = ["pt-PT", "pt-BR"]
 
     [Informação Legal](/en/legal/) | [Termos e Condições](/en/terms/) | [Política de Privacidade](/en/privacy/) | [Política de Cookies](/en/cookies/)
     """
-
-

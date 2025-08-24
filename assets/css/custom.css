@@ -1,0 +1,13 @@
+/* Aumenta o tamanho do logo */
+.navbar-brand img {
+  height: 80px; /* Ajusta para o tamanho desejado, ex.: 80px */
+  width: auto; /* Mantém a proporção */
+}
+
+/* Reduz margens na barra de navegação */
+.navbar {
+  padding-top: 10px; /* Reduz o padding superior */
+  padding-bottom: 10px; /* Reduz o padding inferior */
+  margin-left: 0; /* Remove margem esquerda */
+  margin-right: 0; /* Remove margem direita */
+}
