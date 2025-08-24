@@ -27,7 +27,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.147.7'  # Usa a versão mais recente compatível (ajusta se necessário)
+          hugo-version: '0.147.7'  # Ajusta se usares outra versão
 
       - name: Build with Hugo
         run: hugo --minify
@@ -37,6 +37,13 @@ jobs:
         with:
           path: ./public
 
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
