@@ -6,6 +6,9 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 contentDir = "content"  # Define a pasta base para conteúdo
 
+# Ignora traduções do tema e usa apenas as do projeto
+disableLanguages = ["pt-PT", "pt-BR"]
+
 [languages]
   [languages.en]
     languageName = "English"
