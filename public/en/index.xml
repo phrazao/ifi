@@ -4,50 +4,37 @@
     <title>impossibilis</title>
     <link>https://phrazao.github.io/ifi/en/</link>
     <description>Recent content on impossibilis</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
-    <lastBuildDate>Sat, 23 Aug 2025 21:00:00 +0100</lastBuildDate><atom:link href="https://phrazao.github.io/ifi/en/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 23 Aug 2025 21:00:00 +0100</lastBuildDate>
+    <atom:link href="https://phrazao.github.io/ifi/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://phrazao.github.io/ifi/en/about/</link>
       <pubDate>Sat, 23 Aug 2025 21:00:00 +0100</pubDate>
-      
       <guid>https://phrazao.github.io/ifi/en/about/</guid>
       <description>&lt;p&gt;Welcome to impossibilis! We are a tabletop games producer and publisher.&lt;/p&gt;</description>
-      
     </item>
-    
     <item>
       <title>Contact</title>
       <link>https://phrazao.github.io/ifi/en/contact/</link>
       <pubDate>Sat, 23 Aug 2025 21:00:00 +0100</pubDate>
-      
       <guid>https://phrazao.github.io/ifi/en/contact/</guid>
       <description>&lt;p&gt;Get in touch with us at impossibilis!&lt;/p&gt;</description>
-      
     </item>
-    
     <item>
       <title>Games</title>
       <link>https://phrazao.github.io/ifi/en/games/</link>
       <pubDate>Sat, 23 Aug 2025 21:00:00 +0100</pubDate>
-      
       <guid>https://phrazao.github.io/ifi/en/games/</guid>
       <description>&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;</description>
-      
     </item>
-    
     <item>
       <title>News</title>
       <link>https://phrazao.github.io/ifi/en/news/</link>
       <pubDate>Sat, 23 Aug 2025 21:00:00 +0100</pubDate>
-      
       <guid>https://phrazao.github.io/ifi/en/news/</guid>
       <description>&lt;p&gt;Stay tuned for the latest updates from impossibilis!&lt;/p&gt;</description>
-      
     </item>
-    
   </channel>
 </rss>

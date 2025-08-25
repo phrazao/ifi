@@ -1,6 +1,6 @@
 baseURL = "https://phrazao.github.io/ifi/"
 title = "impossibilis"
-theme = "blowfish"
+#theme = "blowfish"
 colorScheme = "ocean"
 
 defaultContentLanguage = "en"
@@ -18,7 +18,7 @@ disableLanguages = ["pt-PT", "pt-BR"]
     languageCode = "en"
     contentDir = "content/en"  # Conteúdo em inglês
     [languages.en.params]
-      logo = "img/logo.svg"
+      logo = "/logo.svg"
       disableTextInHeader = true
       description = "Tabletop and card games producer and publisher."
       keywords = ["tabletop games", "board games", "card games", "impossibilis"]
@@ -50,7 +50,7 @@ disableLanguages = ["pt-PT", "pt-BR"]
     weight = 2
     contentDir = "content/pt"  # Conteúdo em português
     [languages.pt.params]
-      logo = "img/logo.svg"
+      logo = "/logo.svg"
       disableTextInHeader = true
       description = "Produtora e editora de jogos de tabuleiro e cartas."
       keywords = ["jogos de tabuleiro", "jogos de cartas", "impossibilis"]
@@ -85,7 +85,7 @@ disableLanguages = ["pt-PT", "pt-BR"]
   autoSwitchAppearance = true
   showSearch = true
   favicon = "/favicon.ico"
-  logo = "img/logo.svg"
+  logo = "/logo.svg"
   disableTextInHeader = true
   showLanguageSwitcher = true
   customCSS = ["css/custom.css"]  # Adiciona o CSS personalizado

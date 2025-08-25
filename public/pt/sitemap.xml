@@ -1,75 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
   <url>
     <loc>https://phrazao.github.io/ifi/pt/about/</loc>
     <lastmod>2025-08-23T21:00:00+01:00</lastmod>
     <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://phrazao.github.io/ifi/en/about/"
-    />
+                rel="alternate"
+                hreflang="en"
+                href="https://phrazao.github.io/ifi/en/about/"
+                />
     <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://phrazao.github.io/ifi/pt/about/"
-    />
-  </url>
-  <url>
+                rel="alternate"
+                hreflang="pt"
+                href="https://phrazao.github.io/ifi/pt/about/"
+                />
+  </url><url>
     <loc>https://phrazao.github.io/ifi/pt/contact/</loc>
     <lastmod>2025-08-23T21:00:00+01:00</lastmod>
     <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://phrazao.github.io/ifi/en/contact/"
-    />
+                rel="alternate"
+                hreflang="en"
+                href="https://phrazao.github.io/ifi/en/contact/"
+                />
     <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://phrazao.github.io/ifi/pt/contact/"
-    />
-  </url>
-  <url>
+                rel="alternate"
+                hreflang="pt"
+                href="https://phrazao.github.io/ifi/pt/contact/"
+                />
+  </url><url>
     <loc>https://phrazao.github.io/ifi/pt/</loc>
     <lastmod>2025-08-23T21:00:00+01:00</lastmod>
     <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://phrazao.github.io/ifi/en/"
-    />
+                rel="alternate"
+                hreflang="en"
+                href="https://phrazao.github.io/ifi/en/"
+                />
     <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://phrazao.github.io/ifi/pt/"
-    />
-  </url>
-  <url>
+                rel="alternate"
+                hreflang="pt"
+                href="https://phrazao.github.io/ifi/pt/"
+                />
+  </url><url>
     <loc>https://phrazao.github.io/ifi/pt/games/</loc>
     <lastmod>2025-08-23T21:00:00+01:00</lastmod>
     <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://phrazao.github.io/ifi/en/games/"
-    />
+                rel="alternate"
+                hreflang="en"
+                href="https://phrazao.github.io/ifi/en/games/"
+                />
     <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://phrazao.github.io/ifi/pt/games/"
-    />
-  </url>
-  <url>
+                rel="alternate"
+                hreflang="pt"
+                href="https://phrazao.github.io/ifi/pt/games/"
+                />
+  </url><url>
     <loc>https://phrazao.github.io/ifi/pt/news/</loc>
     <lastmod>2025-08-23T21:00:00+01:00</lastmod>
     <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://phrazao.github.io/ifi/en/news/"
-    />
+                rel="alternate"
+                hreflang="en"
+                href="https://phrazao.github.io/ifi/en/news/"
+                />
     <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://phrazao.github.io/ifi/pt/news/"
-    />
+                rel="alternate"
+                hreflang="pt"
+                href="https://phrazao.github.io/ifi/pt/news/"
+                />
+  </url><url>
+    <loc>https://phrazao.github.io/ifi/pt/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phrazao.github.io/ifi/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://phrazao.github.io/ifi/pt/categories/"
+                />
+  </url><url>
+    <loc>https://phrazao.github.io/ifi/pt/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phrazao.github.io/ifi/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://phrazao.github.io/ifi/pt/tags/"
+                />
   </url>
 </urlset>
