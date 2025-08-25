@@ -3,73 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/ifi/pt/about/</loc>
+    <loc>https://phrazao.github.io/ifi/pt/about/</loc>
     <lastmod>2025-08-23T21:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/ifi/en/about/"
+      href="https://phrazao.github.io/ifi/en/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="http://localhost:1313/ifi/pt/about/"
+      href="https://phrazao.github.io/ifi/pt/about/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/ifi/pt/contact/</loc>
+    <loc>https://phrazao.github.io/ifi/pt/contact/</loc>
     <lastmod>2025-08-23T21:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/ifi/en/contact/"
+      href="https://phrazao.github.io/ifi/en/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="http://localhost:1313/ifi/pt/contact/"
+      href="https://phrazao.github.io/ifi/pt/contact/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/ifi/pt/</loc>
+    <loc>https://phrazao.github.io/ifi/pt/</loc>
     <lastmod>2025-08-23T21:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/ifi/en/"
+      href="https://phrazao.github.io/ifi/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="http://localhost:1313/ifi/pt/"
+      href="https://phrazao.github.io/ifi/pt/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/ifi/pt/games/</loc>
+    <loc>https://phrazao.github.io/ifi/pt/games/</loc>
     <lastmod>2025-08-23T21:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/ifi/en/games/"
+      href="https://phrazao.github.io/ifi/en/games/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="http://localhost:1313/ifi/pt/games/"
+      href="https://phrazao.github.io/ifi/pt/games/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/ifi/pt/news/</loc>
+    <loc>https://phrazao.github.io/ifi/pt/news/</loc>
     <lastmod>2025-08-23T21:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/ifi/en/news/"
+      href="https://phrazao.github.io/ifi/en/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="http://localhost:1313/ifi/pt/news/"
+      href="https://phrazao.github.io/ifi/pt/news/"
     />
   </url>
 </urlset>
