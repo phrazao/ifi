@@ -60,6 +60,11 @@ nav:
   scroll_to_top_title: "Ir para o topo"
   skip_to_main: "Ir para o conteúdo principal"
 
+about: "Acerca"
+games: "Jogos"
+news: "Novidades"
+contact: "Contacto"
+
 search:
   open_button_title: "Pesquisar (/)"
   close_button_title: "Fechar (Esc)"
@@ -82,3 +87,8 @@ shortcode:
 
 recent:
   show_more: "Mostrar mais"
+
+language:
+  switch: "Mudar idioma"
+  en: "Inglês"
+  pt: "Português"

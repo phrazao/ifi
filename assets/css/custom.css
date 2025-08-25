@@ -1,13 +1,64 @@
-/* Aumenta o tamanho do logo */
-.navbar-brand img {
-  height: 80px; /* Ajusta para o tamanho desejado, ex.: 80px */
-  width: auto; /* Mantém a proporção */
+@font-face {
+    font-family: 'Lexend';
+    src: url('/static/fonts/Lexend-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 900; /* Suporta pesos variáveis */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Basically A Mono Style 1';
+    src: url('/fonts/BasicallyAMonoStyle1-ExtraLight.woff2') format('woff2');
+    font-weight: 200; /* ExtraLight */
+    font-style: normal;
+    font-display: swap;
+    /* font-feature-settings: "ss01"; */
+}
+
+@font-face {
+    font-family: 'Basically A Mono Style 1';
+    src: url('/fonts/BasicallyAMonoStyle1-Light.woff2') format('woff2');
+    font-weight: 300; /* Light */
+    font-style: normal;
+    font-display: swap;
+    /* font-feature-settings: "ss01"; */
+}
+
+@font-face {
+    font-family: 'Basically A Mono Style 1';
+    src: url('/fonts/BasicallyAMonoStyle1-Medium.woff2') format('woff2');
+    font-weight: 500; /* Medium */
+    font-style: normal;
+    font-display: swap;
+    /* font-feature-settings: "ss01"; */
+}
+
+@font-face {
+    font-family: 'Basically A Mono Style 1';
+    src: url('/fonts/BasicallyAMonoStyle1-Bold.woff2') format('woff2');
+    font-weight: 700; /* Bold */
+    font-style: normal;
+    font-display: swap;
+    /* font-feature-settings: "ss01"; */
+}
+
+body {
+    font-family: 'Lexend', sans-serif;
+}
+
+code, pre {
+    font-family: 'Basically A Mono Style 1', monospace;
+}
+
+/* Aumenta o tamanho do logo SVG */
+.logo svg {
+  height: 60px !important; /* Ajusta para o tamanho desejado */
+  width: auto !important;
+  max-height: none !important;
 }
 
 /* Reduz margens na barra de navegação */
-.navbar {
-  padding-top: 10px; /* Reduz o padding superior */
-  padding-bottom: 10px; /* Reduz o padding inferior */
-  margin-left: 0; /* Remove margem esquerda */
-  margin-right: 0; /* Remove margem direita */
+.header {
+  padding: 5px 0 !important;
+  margin: 0 !important;
 }

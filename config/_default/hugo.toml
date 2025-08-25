@@ -1,6 +1,7 @@
 baseURL = "https://phrazao.github.io/ifi/"
 title = "impossibilis"
 theme = "blowfish"
+colorScheme = "ocean"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
@@ -76,7 +77,9 @@ disableLanguages = ["pt-PT", "pt-BR"]
         weight = 40
  
  [params]
+  header.layout = "fixed-fill-blur"
   description = "impossibilis - Tabletop Games Producer and Publisher"
+  highlightCurrentMenuArea = true
   enableThemeToggle = true
   defaultTheme = "auto"
   autoSwitchAppearance = true
