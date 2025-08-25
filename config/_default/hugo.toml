@@ -1,6 +1,6 @@
 baseURL = "https://phrazao.github.io/ifi/"
 title = "impossibilis"
-#theme = "blowfish"
+theme = "blowfish"
 colorScheme = "ocean"
 
 defaultContentLanguage = "en"
