@@ -92,7 +92,8 @@ disableLanguages = ["pt-PT", "pt-BR"]
   showLanguageSwitcher = true
   customCSS = ["css/custom.css"]  # Adiciona o CSS personalizado
   author.name = "impossibilis"
-  author.image = "Símbolo_cores.png"
+  author.image = "simbolo.png"
+  #author.image = "impossibilis-simbolo.svg"
 
   [params.homepage]
     #layout = "profile"
@@ -100,11 +101,11 @@ disableLanguages = ["pt-PT", "pt-BR"]
     #layout = "hero"
     #defaultBackgroundImage = "background.jpeg"
     #defaultFeaturedImage = "featured.jpeg"
-    showRecent = false
+    showRecent = true
     showRecentItems = 5
     showMoreLink = false
     showMoreLinkDest = "/posts/"
-    cardView = false
+    cardView = true
     cardViewScreenWidth = false
     layoutBackgroundBlur = false
     disableHeroImageFilter = false
