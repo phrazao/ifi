@@ -79,8 +79,8 @@ disableLanguages = ["pt-PT", "pt-BR"]
  [params]
   header.layout = "fixed-fill-blur"
   description = "impossibilis - Tabletop Games Producer and Publisher"
-  defaultBackgroundImage = "Gemini_Generated_Image_gqbiilgqbiilgqbi.jpeg"
-  defaultFeaturedImage = "Gemini_Generated_Image_cwf9j3cwf9j3cwf9.jpeg"
+  defaultBackgroundImage = "background.jpeg"
+  defaultFeaturedImage = "featured.jpeg"
   highlightCurrentMenuArea = true
   enableThemeToggle = true
   defaultTheme = "auto"
@@ -93,11 +93,13 @@ disableLanguages = ["pt-PT", "pt-BR"]
   customCSS = ["css/custom.css"]  # Adiciona o CSS personalizado
   author.name = "impossibilis"
   author.image = "Símbolo_cores.png"
-   [homepage]
+
+  [params.homepage]
     #layout = "profile"
     layout = "background"
-    defaultBackgroundImage = "Gemini_Generated_Image_gqbiilgqbiilgqbi.jpeg"
-    defaultFeaturedImage = "Gemini_Generated_Image_cwf9j3cwf9j3cwf9.jpeg"
+    #layout = "hero"
+    #defaultBackgroundImage = "background.jpeg"
+    #defaultFeaturedImage = "featured.jpeg"
     showRecent = false
     showRecentItems = 5
     showMoreLink = false
