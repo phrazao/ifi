@@ -6,6 +6,7 @@ colorScheme = "ocean"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 contentDir = "content"  # Define a pasta base para conteúdo
+staticDir = "static"
 
 # Ignora traduções do tema e usa apenas as do projeto
 disableLanguages = ["pt-PT", "pt-BR"]

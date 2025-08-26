@@ -2,50 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>impossibilis</title>
-    <link>https://phrazao.github.io/ifi/pt/</link>
+    <link>http://localhost:1313/ifi/pt/</link>
     <description>Recent content on impossibilis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
     <copyright>© 2025 impossibilis</copyright>
-    <lastBuildDate>Sat, 23 Aug 2025 21:00:00 +0100</lastBuildDate><atom:link href="https://phrazao.github.io/ifi/pt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Aug 2025 21:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/ifi/pt/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Acerca</title>
-      <link>https://phrazao.github.io/ifi/pt/about/</link>
+      <link>http://localhost:1313/ifi/pt/about/</link>
       <pubDate>Sat, 23 Aug 2025 21:00:00 +0100</pubDate>
       
-      <guid>https://phrazao.github.io/ifi/pt/about/</guid>
-      <description>&lt;p&gt;Bem-vindo à impossibilis! Somos uma produtora e editora de jogos de tabuleiro.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/ifi/pt/about/</guid>
+      <description>&lt;p&gt;Bem-vindo à impossibilis! Somos uma produtora e editora de jogos de tabuleiro.&lt;/p&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;Sobre Nós 
+    &lt;div id=&#34;sobre-nós&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#sobre-n%c3%b3s&#34; aria-label=&#34;Etiqueta&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Impossibilis: Onde o Impossível é possível! 
+    &lt;div id=&#34;impossibilis-onde-o-impossível-é-possível&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#impossibilis-onde-o-imposs%c3%advel-%c3%a9-poss%c3%advel&#34; aria-label=&#34;Etiqueta&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;A nossa história começa com o nosso nome.
+&amp;ldquo;Impossibilis&amp;rdquo;, em latim, significa impossível – algo irrealizável, incrível, que desafia a lógica. Um nome universal que reflete a nossa missão: transformar ideias audaciosas em jogos cativantes.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>https://phrazao.github.io/ifi/pt/contact/</link>
+      <link>http://localhost:1313/ifi/pt/contact/</link>
       <pubDate>Sat, 23 Aug 2025 21:00:00 +0100</pubDate>
       
-      <guid>https://phrazao.github.io/ifi/pt/contact/</guid>
+      <guid>http://localhost:1313/ifi/pt/contact/</guid>
       <description>&lt;p&gt;Entre em contacto connosco na impossibilis!&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Jogos</title>
-      <link>https://phrazao.github.io/ifi/pt/games/</link>
+      <link>http://localhost:1313/ifi/pt/games/</link>
       <pubDate>Sat, 23 Aug 2025 21:00:00 +0100</pubDate>
       
-      <guid>https://phrazao.github.io/ifi/pt/games/</guid>
+      <guid>http://localhost:1313/ifi/pt/games/</guid>
       <description>&lt;p&gt;Muito em breve&amp;hellip;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Novidades</title>
-      <link>https://phrazao.github.io/ifi/pt/news/</link>
+      <link>http://localhost:1313/ifi/pt/news/</link>
       <pubDate>Sat, 23 Aug 2025 21:00:00 +0100</pubDate>
       
-      <guid>https://phrazao.github.io/ifi/pt/news/</guid>
-      <description>&lt;p&gt;Fique atento às últimas novidades da impossibilis!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/ifi/pt/news/</guid>
+      <description>&lt;p&gt;Fique atento às novidades da impossibilis!&lt;/p&gt;</description>
       
     </item>
     

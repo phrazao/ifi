@@ -1,6 +1,8 @@
 @font-face {
     font-family: 'Lexend';
+    /*src: url('/fonts/lexend-variablefont_wght-webfont') format('woff2');*/
     src: url('/fonts/Lexend-VariableFont_wght.ttf') format('truetype');
+       /*  url('/fonts/lexend-variablefont_wght-webfont') format('woff2');*/
     font-weight: 100 900; /* Suporta pesos variáveis */
     font-style: normal;
     font-display: swap;
@@ -44,10 +46,17 @@
 
 body {
     font-family: 'Lexend', sans-serif;
+    /*font-family: 'Basically A Mono Style 1', monospace;*/
 }
 
 code, pre {
     font-family: 'Basically A Mono Style 1', monospace;
+}
+
+/* Aplicar as fontes no site (sobrescreve as variáveis do Blowfish) */
+:root {
+  --main-font: 'Lexend', sans-serif !important;
+  --code-font: 'BasicallyAMonoStyle1', monospace !important;
 }
 
 /* Aumenta o tamanho do logo SVG */
